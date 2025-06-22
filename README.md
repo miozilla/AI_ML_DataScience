@@ -5,7 +5,7 @@ AI_ML_DataScience
 ## AI, ML & Data Science Role Repositories
 
 
-| | Projects | Descriptions | Topics | |
+| | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel/Tourism | ai, translate, speech |
