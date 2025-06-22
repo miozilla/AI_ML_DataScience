@@ -11,7 +11,7 @@ AI_ML_DataScience
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel/Tourism | ai, translate, speech |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | ai_video_indexer |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | azure_ml,automated_ml |
-| - | ![customvision 👓 ](https://github.com/miozilla/customvision) | | Custom Vision |
+| - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
 | - | ![bedrockbarag 🛌🪨](https://github.com/miozilla/bedrockbarag) | Enterprise Knowledge Assistant | Bedrock, KB, RAG, Text to Vector, OpenSearch, nova, titan embeddings |
 | - | ![Dataiku](https://github.com/miozilla/Dataiku) | ? | |
 | - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails/Products | databricks, apache-spark-cluster, azure, hive-metastore, pyspark |
