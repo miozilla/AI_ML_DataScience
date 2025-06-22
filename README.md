@@ -6,6 +6,7 @@ AI_ML_DataScience
 
 
 | | Projects | Descriptions | Topics | |
+| - | :-: | :-: | :-: |
 | [aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | [aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel/Tourism | ai, translate, speech |
 | [aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | ai_video_indexer |
