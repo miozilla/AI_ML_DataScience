@@ -13,7 +13,7 @@ AI_ML_DataScience
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | azure_ml,automated_ml |
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
 | - | ![bedrockbarag 🛌🪨](https://github.com/miozilla/bedrockbarag) | Enterprise Knowledge Assistant | Bedrock, KB, RAG, Text to Vector, OpenSearch, nova, titan embeddings |
-| - | ![Dataiku](https://github.com/miozilla/Dataiku) | ? | |
+| - | ![dataiku](https://github.com/miozilla/dataiku) | AI Ml Data Science | Dataiku |
 | - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails/Products | databricks, apache-spark-cluster, azure, hive-metastore, pyspark |
 | - | ![dataprep-alteryx ✳️](https://github.com/miozilla/dataprep-alteryx) | Political & Election | DataPrep, Alteryx, Trifacta, Wrangle, Recipe |
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
