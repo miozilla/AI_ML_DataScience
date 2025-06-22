@@ -27,7 +27,7 @@ AI_ML_DataScience
 | - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | obj-detection, cv, img-analysis, ai-vision |
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | embeddings,vector,pinecone |
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | content-safety |
-| - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | sagemaker,genai,llm model,python sdk |
+| - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | sagemaker, genai, llm model, python sdk |
 | - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | huggingface, streamlit, distilbert, torch, transformer |
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | vertex-ai |
