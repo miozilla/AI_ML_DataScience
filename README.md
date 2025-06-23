@@ -29,6 +29,7 @@ AI_ML_DataScience
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | content-safety |
 | - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | sagemaker, genai, llm model, python sdk |
 | - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | huggingface, streamlit, distilbert, torch, transformer |
+| - | ![snowcortex 🏂](https://github.com/miozilla/snowcortex) | Snowflake AI & ML | Cortex, Gemma, Jamba, Llama |
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | vertex-ai |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
