@@ -21,9 +21,9 @@ AI_ML_DataScience
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQueryMachineLearning |
 | - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | gcp, detect face, label, landmark |
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
-| - | ![heamedenvet.ai](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
-| - | ![miobius](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
-| - | ![mlfitnpredic](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
+| - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
+| - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
+| - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | obj-detection, cv, img-analysis, ai-vision |
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | embeddings,vector,pinecone |
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | content-safety |
