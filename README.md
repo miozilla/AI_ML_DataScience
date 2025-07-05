@@ -11,6 +11,7 @@ AI_ML_DataScience
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | ai, translate, speech |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | ai_video_indexer |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | azure_ml, automated_ml |
+| - | ![ct3p 🍃🐑](https://github.com/miozilla/ct3p) | AI Global Consulting Service | Amazon Comprehend, Textract, Translate, Transcribe, Polly, SageMaker AI, S3 |
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
 | - | ![bedrockbarag 🛌🪨](https://github.com/miozilla/bedrockbarag) | Enterprise Knowledge Assistant | Bedrock, KB, RAG, Text to Vector, OpenSearch, nova, titan embeddings |
 | - | ![dataiku](https://github.com/miozilla/dataiku) | AI Ml Data Science | Dataiku |
