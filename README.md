@@ -28,6 +28,7 @@ AI_ML_DataScience
 | - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | obj-detection, cv, img-analysis, ai-vision |
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | embeddings,vector,pinecone |
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | content-safety |
+| - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
 | - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | sagemaker, genai, llm model, python sdk |
 | - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | huggingface, streamlit, distilbert, torch, transformer |
 | - | ![snowcortex 🏂](https://github.com/miozilla/snowcortex) | Snowflake AI & ML | Cortex, Gemma, Jamba, Llama |
