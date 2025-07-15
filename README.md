@@ -26,6 +26,7 @@ AI_ML_DataScience
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | obj-detection, cv, img-analysis, ai-vision |
+| - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | embeddings,vector,pinecone |
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | content-safety |
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
@@ -35,4 +36,3 @@ AI_ML_DataScience
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | vertex-ai |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
-
