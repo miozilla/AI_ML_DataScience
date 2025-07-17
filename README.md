@@ -20,6 +20,7 @@ AI_ML_DataScience
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | ai-document-intelligence |
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQueryMachineLearning |
+| - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
 | - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | gcp, detect face, label, landmark |
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
