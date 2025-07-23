@@ -25,6 +25,7 @@ AI_ML_DataScience
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
+| - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
 | - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | obj-detection, cv, img-analysis, ai-vision |
@@ -38,3 +39,4 @@ AI_ML_DataScience
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | vertex-ai |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
+
