@@ -30,8 +30,8 @@ AI_ML_DataScience
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
 | - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
 | - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
-| - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | embeddings,vector,pinecone |
-| - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | content-safety |
+| - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | Embeddings, Vector, Pinecone |
+| - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | Content-safety |
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
 | - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | Sagemaker, genai, llm model, python sdk |
 | - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | Huggingface, streamlit, distilbert, torch, transformer |
