@@ -8,7 +8,7 @@ AI_ML_DataScience
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
-| - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | ai, translate, speech |
+| - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ml, automated ml |
 | - | ![ct3p 🍃🐑](https://github.com/miozilla/ct3p) | AI Global Consulting Service | Amazon Comprehend, Textract, Translate, Transcribe, Polly, SageMaker AI, S3 |
