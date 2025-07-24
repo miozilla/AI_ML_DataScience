@@ -9,34 +9,34 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | ai, translate, speech |
-| - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | ai_video_indexer |
-| - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | azure_ml, automated_ml |
+| - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
+| - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ml, automated ml |
 | - | ![ct3p 🍃🐑](https://github.com/miozilla/ct3p) | AI Global Consulting Service | Amazon Comprehend, Textract, Translate, Transcribe, Polly, SageMaker AI, S3 |
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
 | - | ![bedrockbarag 🛌🪨](https://github.com/miozilla/bedrockbarag) | Enterprise Knowledge Assistant | Bedrock, KB, RAG, Text to Vector, OpenSearch, nova, titan embeddings |
 | - | ![dataiku](https://github.com/miozilla/dataiku) | AI Ml Data Science | Dataiku |
-| - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails / Products | databricks, apache-spark-cluster, azure, hive-metastore, pyspark |
+| - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails / Products | Databricks, apache-spark-cluster, azure, hive-metastore, pyspark |
 | - | ![dataprep-alteryx ✳️](https://github.com/miozilla/dataprep-alteryx) | Political & Election | DataPrep, Alteryx, Trifacta, Wrangle, Recipe |
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
-| - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | ai-document-intelligence |
+| - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQueryMachineLearning |
 | - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
-| - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | gcp, detect face, label, landmark |
-| - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
+| - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | GCP, detect face, label, landmark |
+| - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | Genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
-| - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | obj-detection, cv, img-analysis, ai-vision |
+| - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
 | - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | embeddings,vector,pinecone |
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | content-safety |
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
-| - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | sagemaker, genai, llm model, python sdk |
-| - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | huggingface, streamlit, distilbert, torch, transformer |
+| - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | Sagemaker, genai, llm model, python sdk |
+| - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | Huggingface, streamlit, distilbert, torch, transformer |
 | - | ![snowcortex 🏂](https://github.com/miozilla/snowcortex) | Snowflake AI & ML | Cortex, Gemma, Jamba, Llama |
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
-| - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | vertex-ai |
+| - | ![statsmodols 👢📐](https://github.com/miozilla/statsmodols) | Linear Regression Model | Statsmodels.formula.api.ols, Train, Fit, Pandas, Matplotlib, Statistics |
+| - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | Vertex-ai |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
-
