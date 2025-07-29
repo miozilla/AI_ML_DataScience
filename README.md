@@ -21,6 +21,7 @@ AI_ML_DataScience
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQueryMachineLearning |
 | - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
+| - | ![fraudfinder 🔎😈:suspect:](https://github.com/miozilla/fraudfinder) | Historical Payment Transactions | Fraud Detection, EDA, Feature Store, Model Registry |
 | - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | GCP, detect face, label, landmark |
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | Genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
@@ -40,3 +41,4 @@ AI_ML_DataScience
 | - | ![statsmodols 👢📐](https://github.com/miozilla/statsmodols) | Linear Regression Model | Statsmodels.formula.api.ols, Train, Fit, Pandas, Matplotlib, Statistics |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | Vertex-ai |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
+
