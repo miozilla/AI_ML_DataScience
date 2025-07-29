@@ -29,7 +29,7 @@ AI_ML_DataScience
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
-| - | ![odcvia 👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
+| - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
 | - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | Embeddings, Vector, Pinecone |
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | Content-safety |
