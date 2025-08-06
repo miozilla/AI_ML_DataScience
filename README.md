@@ -48,4 +48,6 @@ AI_ML_DataScience
 | - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
 | - | ![miorpythonsnake](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen [In Progress...] |
 | - | ![smartai](https://github.com/miozilla/smartai) | Smart AI Assistance | RAG, Bedrock, OpenSearch, Lambda [In Progress...] |
+| - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer |
 | - | :-: | :-: | :-: |
+
