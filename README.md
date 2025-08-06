@@ -42,7 +42,7 @@ AI_ML_DataScience
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | Vertex-ai |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
 | - | :-: | :-: | :-: |
-| - | ![avalanchemior](https://github.com/miozilla/avalanchemior) | Safety Technology | Optimize Model Performance, ROC, AUC, scikit-learn [In Progress...] |
+| - | ![avalanchemior](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn [In Progress...] |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | ![imagen](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model [In Progress...] |
 | - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
