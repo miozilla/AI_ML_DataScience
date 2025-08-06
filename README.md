@@ -43,9 +43,9 @@ AI_ML_DataScience
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | Vertex-ai |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
 | - | :-: | :-: | :-: |
-| - | ![avalanchemior](https://github.com/miozilla/vertexgenai) | Safety Technology | Optimize Model Performance, ROC, AUC, scikit-learn [In Progress...] |
-| - | ![imagen](https://github.com/miozilla/vertexgenai) | AI Image Model | Text-to-image diffusion model [In Progress...] |
-| - | ![miola](https://github.com/miozilla/vertexgenai) | Automotive | Custom Model, TensorFlow [In Progress...] |
-| - | ![miorpythonsnake](https://github.com/miozilla/vertexgenai) | Snake Game | Pygame, Qwen [In Progress...] |
-| - | ![smartai](https://github.com/miozilla/vertexgenai) | Smart AI Assistance | RAG, Bedrock, OpenSearch, Lambda [In Progress...] |
+| - | ![avalanchemior](https://github.com/miozilla/avalanchemior) | Safety Technology | Optimize Model Performance, ROC, AUC, scikit-learn [In Progress...] |
+| - | ![imagen](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model [In Progress...] |
+| - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
+| - | ![miorpythonsnake](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen [In Progress...] |
+| - | ![smartai](https://github.com/miozilla/smartai) | Smart AI Assistance | RAG, Bedrock, OpenSearch, Lambda [In Progress...] |
 | - | :-: | :-: | :-: |
