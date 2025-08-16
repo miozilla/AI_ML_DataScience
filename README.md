@@ -37,6 +37,7 @@ AI_ML_DataScience
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
 | - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | Sagemaker, genai, llm model, python sdk |
 | - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | Huggingface, streamlit, distilbert, torch, transformer |
+| - | ![smartai](https://github.com/miozilla/smartai) | Smart AI Assistance | RAG, Bedrock, OpenSearch, Lambda |
 | - | ![snowcortex 🏂](https://github.com/miozilla/snowcortex) | Snowflake AI & ML | Cortex, Gemma, Jamba, Llama |
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
 | - | ![statsmodols 👢📐](https://github.com/miozilla/statsmodols) | Linear Regression Model | Statsmodels.formula.api.ols, Train, Fit, Pandas, Matplotlib, Statistics |
@@ -48,6 +49,5 @@ AI_ML_DataScience
 | - | ![imagen](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model [In Progress...] |
 | - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
 | - | ![miorpythonsnake](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen [In Progress...] |
-| - | ![smartai](https://github.com/miozilla/smartai) | Smart AI Assistance | RAG, Bedrock, OpenSearch, Lambda [In Progress...] |
 | - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
