@@ -31,6 +31,7 @@ AI_ML_DataScience
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
 | - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
 | - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
+| - | ![pcbmanudef 🏭🤖](https://github.com/miozilla/pcbmanudef) | Manufacturing Anomaly Detection Model | Visual Inspection AI, PCB, Assembly Inspection, Defect, Industrial Automation |
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | Embeddings, Vector, Pinecone |
 | - | ![promptsheild 🛡️](https://github.com/miozilla/promptsheild) | Ai Security | Content-safety |
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
@@ -50,4 +51,3 @@ AI_ML_DataScience
 | - | ![smartai](https://github.com/miozilla/smartai) | Smart AI Assistance | RAG, Bedrock, OpenSearch, Lambda [In Progress...] |
 | - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
-
