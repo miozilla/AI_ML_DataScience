@@ -9,6 +9,7 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
+| - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ml, automated ml |
 | - | ![ct3p 🍃🐑](https://github.com/miozilla/ct3p) | AI Global Consulting Service | Amazon Comprehend, Textract, Translate, Transcribe, Polly, SageMaker AI, S3 |
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
@@ -46,7 +47,6 @@ AI_ML_DataScience
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
-| - | ![avalanchemior](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn [In Progress...] |
 | - | ![imagen](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model [In Progress...] |
 | - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
 | - | ![miorpythonsnake](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen [In Progress...] |
