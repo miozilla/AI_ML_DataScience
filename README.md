@@ -28,6 +28,7 @@ AI_ML_DataScience
 | - | ![metaai 🛟](https://github.com/miozilla/metaai) | Meta AI App | Formerly Meta View, Llama4 |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
+| - | ![miorpythonsnake 🐍🎮👸](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen2, Pyinstaller |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
 | - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
@@ -49,6 +50,5 @@ AI_ML_DataScience
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | ![imagen](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model [In Progress...] |
 | - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
-| - | ![miorpythonsnake](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen [In Progress...] |
 | - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
