@@ -25,6 +25,7 @@ AI_ML_DataScience
 | - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | GCP, detect face, label, landmark |
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | Genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
+| - | ![imagen 🖼️🤖](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model, Imagen |
 | - | ![metaai 🛟](https://github.com/miozilla/metaai) | Meta AI App | Formerly Meta View, Llama4 |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
@@ -48,7 +49,6 @@ AI_ML_DataScience
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
-| - | ![imagen](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model [In Progress...] |
 | - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
 | - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
