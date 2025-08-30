@@ -32,6 +32,7 @@ AI_ML_DataScience
 | - | ![miorpythonsnake 🐍🎮👸](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen2, Pyinstaller |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
+| - | ![nlpreusee 🗒️⛓️](https://github.com/miozilla/nlpreusee) | Github, Tech-Crunch, New-York Times | NLP, Text Classification, Reusable Embeddings |
 | - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
 | - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
 | - | ![pcbmanudef 🏭🤖](https://github.com/miozilla/pcbmanudef) | Manufacturing Anomaly Detection Model | Visual Inspection AI, PCB, Assembly Inspection, Defect, Industrial Automation |
