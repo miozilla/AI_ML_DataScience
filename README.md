@@ -26,6 +26,7 @@ AI_ML_DataScience
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | Genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
 | - | ![imagen 🖼️🤖](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model, Imagen |
+| - | ![kerastcvai 📚🧮💰](https://github.com/miozilla/kerastcvai) | Keras Text Classification | DNN, RNN, CNN |
 | - | ![metaai 🛟](https://github.com/miozilla/metaai) | Meta AI App | Formerly Meta View, Llama4 |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
