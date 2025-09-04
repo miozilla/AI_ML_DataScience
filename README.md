@@ -29,6 +29,7 @@ AI_ML_DataScience
 | - | ![kerastcvai 📚🧮💰](https://github.com/miozilla/kerastcvai) | Keras Text Classification | DNN, RNN, CNN |
 | - | ![metaai 🛟](https://github.com/miozilla/metaai) | Meta AI App | Formerly Meta View, Llama4 |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
+| - | ![miola](https://github.com/miozilla/miola) | Custom Model | Automotive | TensorFlow |
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
 | - | ![miorpythonsnake 🐍🎮👸](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen2, Pyinstaller |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
