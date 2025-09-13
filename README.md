@@ -18,6 +18,7 @@ AI_ML_DataScience
 | - | ![dataiku](https://github.com/miozilla/dataiku) | AI Ml Data Science | Dataiku |
 | - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails / Products | Databricks, apache-spark-cluster, azure, hive-metastore, pyspark |
 | - | ![dataprep-alteryx ✳️](https://github.com/miozilla/dataprep-alteryx) | Political & Election | DataPrep, Alteryx, Trifacta, Wrangle, Recipe |
+| - | ![dcpvaml 🚗🔩](https://github.com/miozilla/dcpvaml) | Automotive & Insurance | Vertex AutoML Vision, Damaged Car Parts |
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQueryMachineLearning |
