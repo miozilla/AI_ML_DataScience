@@ -56,6 +56,5 @@ AI_ML_DataScience
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
-| - | ![miola](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow [In Progress...] |
 | - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
