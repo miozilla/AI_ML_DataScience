@@ -11,6 +11,7 @@ AI_ML_DataScience
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ml, automated ml |
+| - | ![churnxgb 📉🚀😀](https://github.com/miozilla/churnxgb) | Customer Churn Predictions | BQML, XGBoost Classifier |
 | - | ![classicsml ⛈️🔄📉](https://github.com/miozilla/classicsml) | Classsic Supervised ML | Cost Function, Gradient Descent |
 | - | ![ct3p 🍃🐑](https://github.com/miozilla/ct3p) | AI Global Consulting Service | Amazon Comprehend, Textract, Translate, Transcribe, Polly, SageMaker AI, S3 |
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
@@ -58,3 +59,4 @@ AI_ML_DataScience
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
+
