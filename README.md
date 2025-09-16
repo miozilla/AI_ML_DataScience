@@ -23,6 +23,7 @@ AI_ML_DataScience
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQueryMachineLearning |
+| - | ![fescarefine ⛷️🗻🦮](https://github.com/miozilla/fescarefine) | Refine & Test ML models | Features Scaling, Normalization, Datasets |
 | - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
 | - | ![fraudfinder 🔎😈:suspect:](https://github.com/miozilla/fraudfinder) | Historical Payment Transactions | Fraud Detection, EDA, Feature Store, Model Registry |
 | - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | GCP, detect face, label, landmark |
