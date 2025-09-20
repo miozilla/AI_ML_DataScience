@@ -13,7 +13,7 @@ AI_ML_DataScience
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ml, automated ml |
 | - | ![churnxgb 📉🚀😀](https://github.com/miozilla/churnxgb) | Customer Churn Predictions | BQML, XGBoost Classifier |
 | - | ![classicsml ⛈️🔄📉](https://github.com/miozilla/classicsml) | Classsic Supervised ML | Cost Function, Gradient Descent |
-| - | ![conmatrix 🔢👽🏁](https://github.com/miozilla/conmatrix) | Confusion Matrix | Data Imbalance, Weights & Biases | 
+| - | ![conmatrix 🔢👽🏁](https://github.com/miozilla/conmatrix) | Confusion Matrix | Data Imbalance, Evaluation, Weights & Biases | 
 | - | ![ct3p 🍃🐑](https://github.com/miozilla/ct3p) | AI Global Consulting Service | Amazon Comprehend, Textract, Translate, Transcribe, Polly, SageMaker AI, S3 |
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
 | - | ![bedrockbarag 🛌🪨](https://github.com/miozilla/bedrockbarag) | Enterprise Knowledge Assistant | Bedrock, KB, RAG, Text to Vector, OpenSearch, nova, titan embeddings |
