@@ -45,6 +45,7 @@ AI_ML_DataScience
 | - | ![nlpreusee 🗒️⛓️](https://github.com/miozilla/nlpreusee) | Github, Tech-Crunch, New-York Times | NLP, Text Classification, Reusable Embeddings |
 | - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
 | - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
+| - | ![opencv 🍏🔺🩵](https://github.com/miozilla/opencv) | OpenCV | Computer Vision, CaffeModel, OpenPose, GoTurn |
 | - | ![pcbmanudef 🏭🤖](https://github.com/miozilla/pcbmanudef) | Manufacturing Anomaly Detection Model | Visual Inspection AI, PCB, Assembly Inspection, Defect, Industrial Automation |
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | Embeddings, Vector, Pinecone |
 | - | ![promptshield 🛡️](https://github.com/miozilla/promptshield) | Ai Security | Content-safety |
@@ -62,4 +63,3 @@ AI_ML_DataScience
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
-
