@@ -35,6 +35,7 @@ AI_ML_DataScience
 | - | ![kmeansc 🌼🌷🌻](https://github.com/miozilla/kmeansc) | K-Means Clustering | scikit-learn framework, clustering model |
 | - | ![logistregbqml 🦖🛍️](https://github.com/miozilla/logistregbqml) | Predict Shop Purchases | Logistic Regression Model, BQML |
 | - | ![loanriskaml 💸🦹](https://github.com/miozilla/loanriskaml) | Predict Loan Risk | AutoML, Tabular Classification Model |
+| - | ![mcp_adk 🤖🧩🧠](https://github.com/miozilla/mcp_adk) | LLMs & tools Integration | Model Context Protocol (MCP), Agent Development Kit (ADK) | 
 | - | ![metaai 🛟](https://github.com/miozilla/metaai) | Meta AI App | Formerly Meta View, Llama4 |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
 | - | ![miola 🚙🛢️](https://github.com/miozilla/miola) | Automotive | Custom Model, TensorFlow |
