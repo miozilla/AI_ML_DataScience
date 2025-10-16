@@ -60,10 +60,11 @@ AI_ML_DataScience
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
 | - | ![statsmodols 👢📐](https://github.com/miozilla/statsmodols) | Linear Regression Model | Statsmodels.formula.api.ols, Train, Fit, Pandas, Matplotlib, Statistics |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | Vertex-ai |
+| - | ![transformer 🤖🧬🤗](https://github.com/miozilla/transformer) | HuggingFace | Transformer, AWS Sagemaker Studio Lab |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
-| - | ![transformer](https://github.com/miozilla/transformer) | HuggingFace | Transformer [In Progress...] |
 | - | :-: | :-: | :-: |
+
 
 
