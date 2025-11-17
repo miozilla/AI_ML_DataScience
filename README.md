@@ -43,6 +43,7 @@ AI_ML_DataScience
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
 | - | ![miorpythonsnake 🐍🎮👸](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen2, Pyinstaller |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
+| - | ![modelarmor 🛡️🧠🦾](https://github.com/miozilla/modelarmor) | AI Security | Model Armor, Sanitize Prompts & Response, Sensitive Data Protection (SDP), DLP |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
 | - | ![nlpreusee 🗒️⛓️](https://github.com/miozilla/nlpreusee) | Github, Tech-Crunch, New-York Times | NLP, Text Classification, Reusable Embeddings |
 | - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
@@ -65,6 +66,5 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
-
 
 
