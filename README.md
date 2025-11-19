@@ -45,6 +45,7 @@ AI_ML_DataScience
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
 | - | ![modelarmor 🛡️🧠🦾](https://github.com/miozilla/modelarmor) | AI Security | Model Armor, Sanitize Prompts & Response, Sensitive Data Protection (SDP), DLP |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
+| - | ![multiagentadk 👷‍♀️🪁👷‍♂️](https://github.com/miozilla/multiagentadk) | Multi-Agent System | Google Agent Development Kit (ADK) | 
 | - | ![nlpreusee 🗒️⛓️](https://github.com/miozilla/nlpreusee) | Github, Tech-Crunch, New-York Times | NLP, Text Classification, Reusable Embeddings |
 | - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
 | - | ![onnxwildlife 🐻🦢](https://github.com/miozilla/onnxwildlife) | Wild Life Image Classification Model | PyTorch, ONNX, BigQuery | 
@@ -66,5 +67,4 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
-
 
