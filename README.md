@@ -7,6 +7,7 @@ AI_ML_DataScience
 
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
+| - | ![aiaic_agent 🧑‍🏭🕸️🏌️](https://github.com/miozilla/aiaic_agent) | AI Agent | Agentic Architecture, Agent, Kaggle, ADK, Prompt, Action |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
@@ -67,4 +68,3 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
-
