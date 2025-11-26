@@ -8,6 +8,10 @@ AI_ML_DataScience
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
 | - | ![aiaic_agent 🧑‍🏭🕸️🏌️](https://github.com/miozilla/aiaic_agent) | AI Agent | Agentic Architecture, Agent, Kaggle, ADK, Prompt, Action |
+| - | ![aiaic_mcptool 🧑‍🏭🧰🏛️](https://github.com/miozilla/aiaic_mcptool) | Agent Tools & MCP | Model Context Protocol, Interoperability, Best Practice, Integration |
+| - | ![aiaic_memory 🧑‍🏭🧠📚](https://github.com/miozilla/aiaic_memory) | Context Engineering | Session, Memory, Agent |
+| - | ![aiaic_quality 🧑‍🏭⛲📈](https://github.com/miozilla/aiaic_quality) | Agent Quality | Evaluation strategy, Logging, Tracing, Visibility, Metric | 
+| - | ![aiaic_toprod 🧑‍🏭🏗️🌏](https://github.com/miozilla/aiaic_toprod) | Prototype to Production | A2A,  Agent Deployment, Agent Engine |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
@@ -68,3 +72,5 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
+
+
