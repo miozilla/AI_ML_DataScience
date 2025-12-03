@@ -29,6 +29,7 @@ AI_ML_DataScience
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
 | - | ![entitysa_nlp 🗣️😕😏](https://github.com/miozilla/entitysa_nlp) | Natural Language API | Entity & Sentiment Analysis, NLP |
+| - | ![fairsafepriv ⚖️⛵😎](https://github.com/miozilla/fairsafepriv) | Fairness, Privacy & Safety | Bias, MinDiff, Tensorflow, Keras, Gemini-api | 
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQuery Machine Learning |
 | - | ![fescarefine ⛷️🗻🦮](https://github.com/miozilla/fescarefine) | Refine & Test ML Models | Features Scaling, Normalization, Datasets |
 | - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
@@ -72,5 +73,4 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
-
 
