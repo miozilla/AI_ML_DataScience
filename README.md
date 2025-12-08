@@ -28,6 +28,7 @@ AI_ML_DataScience
 | - | ![dcpvaml 🚗🔩](https://github.com/miozilla/dcpvaml) | Automotive & Insurance | Vertex AutoML Vision, Damaged Car Parts |
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
+| - | ![earlyrl 🔢👷‍♀️🏁](https://github.com/miozilla/earlyrl) | Reinforcement Learning | Tensorflow, Agent, Action, Environment, State, Reward | 
 | - | ![entitysa_nlp 🗣️😕😏](https://github.com/miozilla/entitysa_nlp) | Natural Language API | Entity & Sentiment Analysis, NLP |
 | - | ![fairsafepriv ⚖️⛵😎](https://github.com/miozilla/fairsafepriv) | Fairness, Privacy & Safety | Bias, MinDiff, Tensorflow, Keras, Gemini-api | 
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQuery Machine Learning |
@@ -73,4 +74,3 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
-
