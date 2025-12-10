@@ -36,6 +36,7 @@ AI_ML_DataScience
 | - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
 | - | ![fraudfinder 🔎😈:suspect:](https://github.com/miozilla/fraudfinder) | Historical Payment Transactions | Fraud Detection, EDA, Feature Store, Model Registry |
 | - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | GCP, detect face, label, landmark |
+| - | ![geminient 🥁👨‍⚕️🧁](https://github.com/miozilla/geminient) | Cymbal Foods Manufacturing AI Assistant | Gemini Enterprise, Agent, Google Drive, Cloud Storage, Calendar, NotebookLM |
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | Genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
 | - | ![imagen 🖼️🤖](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model, Imagen |
@@ -74,3 +75,5 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
+
+ 
