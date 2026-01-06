@@ -12,7 +12,7 @@ AI_ML_DataScience
 | - | ![aiaic_memory 🧑‍🏭🧠📚](https://github.com/miozilla/aiaic_memory) | Context Engineering | Session, Memory, Agent |
 | - | ![aiaic_quality 🧑‍🏭⛲📈](https://github.com/miozilla/aiaic_quality) | Agent Quality | Evaluation strategy, Logging, Tracing, Visibility, Metric | 
 | - | ![aiaic_toprod 🧑‍🏭🏗️🌏](https://github.com/miozilla/aiaic_toprod) | Prototype to Production | A2A,  Agent Deployment, Agent Engine |
-| - | ![aifc01d5 🔑🌎💼](https://github.com/miozilla/aifc01d5) | AWS KMS Amazon Macie | AIF-C01, Encryption, PII, AI Security Tool, KMS, Bucket Policy | 
+| - | ![aifc01d5 🔑🌎💼](https://github.com/miozilla/aifc01d5) | AWS KMS Amazon Macie | AIF-C01, Encryption, PII, AI Security Tool, KMS, Bucket Policy, S3 | 
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
