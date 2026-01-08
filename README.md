@@ -15,9 +15,9 @@ AI_ML_DataScience
 | - | ![aifc01d1 🐑✍️🗣️](https://github.com/miozilla/aifc01d1) | Text from Image to Speech Document Handling | Textract, Polly, Lambda, S3, AIF-C01 |
 | - | ![aifc01d5 🔑🌎💼](https://github.com/miozilla/aifc01d5) | AWS KMS Amazon Macie | AIF-C01, Encryption, PII, AI Security Tool, KMS, Bucket Policy, S3 | 
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
-| - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai video indexer |
+| - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai Video Indexer |
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
-| - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ml, automated ml |
+| - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ML, Automated ML |
 | - | ![churnxgb 📉🚀😀](https://github.com/miozilla/churnxgb) | Customer Churn Predictions | BQML, XGBoost Classifier |
 | - | ![classicsml ⛈️🔄📉](https://github.com/miozilla/classicsml) | Classsic Supervised ML | Cost Function, Gradient Descent |
 | - | ![conmatrix 🔢👽🏁](https://github.com/miozilla/conmatrix) | Confusion Matrix | Data Imbalance, Evaluation, Weights & Biases | 
@@ -26,7 +26,7 @@ AI_ML_DataScience
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
 | - | ![bedrockbarag 🛌🪨](https://github.com/miozilla/bedrockbarag) | Enterprise Knowledge Assistant | Bedrock, KB, RAG, Text to Vector, OpenSearch, nova, titan embeddings |
 | - | ![dataiku](https://github.com/miozilla/dataiku) | AI Ml Data Science | Dataiku |
-| - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails / Products | Databricks, apache-spark-cluster, azure, hive-metastore, pyspark |
+| - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails / Products | Databricks, Apache-spark-cluster, Azure, Hive-metastore, Pyspark |
 | - | ![dataprep-alteryx ✳️](https://github.com/miozilla/dataprep-alteryx) | Political & Election | DataPrep, Alteryx, Trifacta, Wrangle, Recipe |
 | - | ![dcpvaml 🚗🔩](https://github.com/miozilla/dcpvaml) | Automotive & Insurance | Vertex AutoML Vision, Damaged Car Parts |
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
@@ -38,7 +38,7 @@ AI_ML_DataScience
 | - | ![fescarefine ⛷️🗻🦮](https://github.com/miozilla/fescarefine) | Refine & Test ML Models | Features Scaling, Normalization, Datasets |
 | - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
 | - | ![fraudfinder 🔎😈:suspect:](https://github.com/miozilla/fraudfinder) | Historical Payment Transactions | Fraud Detection, EDA, Feature Store, Model Registry |
-| - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | GCP, detect face, label, landmark |
+| - | ![gcv-api 👓](https://github.com/miozilla/gcv-api) | Cloud Vision API | GCP, Detect Face, Label, Landmark |
 | - | ![geminient 🥁👨‍⚕️🧁](https://github.com/miozilla/geminient) | Cymbal Foods Manufacturing AI Assistant | Gemini Enterprise, Agent, Google Drive, Cloud Storage, Calendar, NotebookLM |
 | - | ![genaifoundry 💬](https://github.com/miozilla/genaifoundry) | Generative AI | Genai-chatbot, ai-foundry, chat-playground, gpt4, genai |
 | - | ![heamedenvet.ai 😷](https://github.com/miozilla/heamedenvet.ai) | Healthcare Medical Dental Veterinary | Azure AI Agent Service |
@@ -75,7 +75,7 @@ AI_ML_DataScience
 | - | ![statsmodols 👢📐](https://github.com/miozilla/statsmodols) | Linear Regression Model | Statsmodels.formula.api.ols, Train, Fit, Pandas, Matplotlib, Statistics |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | Vertex-ai |
 | - | ![transformer 🤖🧬🤗](https://github.com/miozilla/transformer) | HuggingFace | Transformer, AWS Sagemaker Studio Lab |
-| - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | vertex-ai, gen-ai |
+| - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | Vertex-ai, Gen-ai |
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
