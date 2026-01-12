@@ -68,6 +68,7 @@ AI_ML_DataScience
 | - | ![randomforestclassifier 🌸🌳](https://github.com/miozilla/RandomForestClassifier) | CSV Load, Train, Infer Model Demo | RandomForestClassifier, sklearn.ensemble, train_test_split, accuracy_score, flask |
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
 | - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | Sagemaker, genai, llm model, python sdk |
+| - | ![sdkgenai 🛠️🔃📦](https://github.com/miozilla/sdkgenai) | Gen AI SDK | Model Parameters, Safety Filters, Multi-turn Chat, Content Streaming, Asynchronous Requests, Token Counting, Context Caching, Function Calling, Batch Prediction, Text Embeddings |
 | - | ![sentimentalbot 🤗](https://github.com/miozilla/sentimentalbot) | Customer Service / Experience | Huggingface, streamlit, distilbert, torch, transformer |
 | - | ![smartai 👨‍🦼🛬](https://github.com/miozilla/smartai) | Smart AI Assistance | RAG, Bedrock, OpenSearch, Lambda, KB, Agent, Dynamodb |
 | - | ![snowcortex 🏂](https://github.com/miozilla/snowcortex) | Snowflake AI & ML | Cortex, Gemma, Jamba, Llama |
