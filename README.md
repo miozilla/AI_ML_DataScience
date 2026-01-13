@@ -64,6 +64,7 @@ AI_ML_DataScience
 | - | ![pcbmanudef 🏭🤖](https://github.com/miozilla/pcbmanudef) | Manufacturing Anomaly Detection Model | Visual Inspection AI, PCB, Assembly Inspection, Defect, Industrial Automation |
 | - | ![phi3mini 🧊🖥️🛝](https://github.com/miozilla/phi3mini) | Microsoft Phi 3 Mini Model | Generative AI, Chat Playground, Microsoft Foundry |
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | Embeddings, Vector, Pinecone |
+| - | ![promptd ⌨️🧠🗣️](https://github.com/miozilla/promptd) | Prompt Design | Prompt Engineering, Ideation, QA, Classification, Extraction, Summarization | 
 | - | ![promptshield 🛡️](https://github.com/miozilla/promptshield) | Ai Security | Content-safety |
 | - | ![randomforestclassifier 🌸🌳](https://github.com/miozilla/RandomForestClassifier) | CSV Load, Train, Infer Model Demo | RandomForestClassifier, sklearn.ensemble, train_test_split, accuracy_score, flask |
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
