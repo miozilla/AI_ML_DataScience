@@ -14,6 +14,7 @@ AI_ML_DataScience
 | - | ![aiaic_toprod 🧑‍🏭🏗️🌏](https://github.com/miozilla/aiaic_toprod) | Prototype to Production | A2A,  Agent Deployment, Agent Engine |
 | - | ![aifc01d1 🐑✍️🗣️](https://github.com/miozilla/aifc01d1) | Text from Image to Speech Document Handling | Textract, Polly, Lambda, S3, AIF-C01 |
 | - | ![aifc01d5 🔑🌎💼](https://github.com/miozilla/aifc01d5) | AWS KMS Amazon Macie | AIF-C01, Encryption, PII, AI Security Tool, KMS, Bucket Policy, S3 | 
+| - | ![aiflutter 📱🔄🤖](https://github.com/miozilla/aiswitznorth) | AI Agent Flutter App Integration | AI Applications, Reasoning Engine, Data Store, Search App |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai Video Indexer |
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
