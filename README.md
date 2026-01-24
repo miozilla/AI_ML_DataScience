@@ -17,6 +17,7 @@ AI_ML_DataScience
 | - | ![aiflutter 📱🔄🤖](https://github.com/miozilla/aiflutter) | AI Agent Flutter App Integration | AI Applications, Reasoning Engine, Data Store, Search App |
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai Video Indexer |
+| - | ![alloydbai ⚙️🧰🏃‍♀️](https://github.com/miozilla/alloydbai) | Foundational AI Agent Secure Database Access | AlloyDB, MCP Toolbox, API, ADK | 
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ML, Automated ML |
 | - | ![churnxgb 📉🚀😀](https://github.com/miozilla/churnxgb) | Customer Churn Predictions | BQML, XGBoost Classifier |
@@ -35,6 +36,7 @@ AI_ML_DataScience
 | - | ![earlyrl 🔢👷‍♀️🏁](https://github.com/miozilla/earlyrl) | Reinforcement Learning | Tensorflow, Agent, Action, Environment, State, Reward | 
 | - | ![entitysa_nlp 🗣️😕😏](https://github.com/miozilla/entitysa_nlp) | Natural Language API | Entity & Sentiment Analysis, NLP |
 | - | ![fairsafepriv ⚖️⛵😎](https://github.com/miozilla/fairsafepriv) | Fairness, Privacy & Safety | Bias, MinDiff, Tensorflow, Keras, Gemini-api | 
+| - | ![featurestore 📥🐼🧰](https://github.com/miozilla/featurestore) | Feature Store | Streaming Ingestion SDK, MLOps tools, Pandas | 
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQuery Machine Learning |
 | - | ![fescarefine ⛷️🗻🦮](https://github.com/miozilla/fescarefine) | Refine & Test ML Models | Features Scaling, Normalization, Datasets |
 | - | ![flaskfaceapp 🫖😳](https://github.com/miozilla/flaskfaceapp) | Face Detection App | App Engine, Python, Flask, Vision, GCP, Web |
@@ -55,6 +57,7 @@ AI_ML_DataScience
 | - | ![miorgeminirag 🦜⛓️](https://github.com/miozilla/miorgeminirag) | Insurance Chat Assistant | RAG, MongoDB Atlas, Google Cloud, Langchain, Angular |
 | - | ![miorpythonsnake 🐍🎮👸](https://github.com/miozilla/miorpythonsnake) | Snake Game | Pygame, Qwen2, Pyinstaller |
 | - | ![mlfitnpredic 📈](https://github.com/miozilla/mlfitnpredic) | Marketing/Sale | ML Modeling, sklearn, Regression Tree, Fit, Prediction |
+| - | ![mlopspl 🛠️🔄🚀](https://github.com/miozilla/mlopspl) | E2E MLOps Vertex AI Pipelines | ML workflow, Kubeflow Pipelines SDK, Cloud Scheduler | 
 | - | ![modelarmor 🛡️🧠🦾](https://github.com/miozilla/modelarmor) | AI Security | Model Armor, Sanitize Prompts & Response, Sensitive Data Protection (SDP), DLP |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
 | - | ![multiagentadk 👷‍♀️🪁👷‍♂️](https://github.com/miozilla/multiagentadk) | Multi-Agent System | Google Agent Development Kit (ADK) | 
