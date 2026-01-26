@@ -80,6 +80,7 @@ AI_ML_DataScience
 | - | ![speech2txt 🦻📑](https://github.com/miozilla/speech2txt) | Speech-toText API | Google Speech Recognition |
 | - | ![statsmodols 👢📐](https://github.com/miozilla/statsmodols) | Linear Regression Model | Statsmodels.formula.api.ols, Train, Fit, Pandas, Matplotlib, Statistics |
 | - | ![tensorflowqs 🔠](https://github.com/miozilla/tensorflowqs) | Tensorflow | Vertex-ai |
+| - | ![tfservingke 🛌🧠🏋️](https://github.com/miozilla/tfservingke) | Autoscaling TensorFlow Model Deployments | TF Serving, Kubernetes, ResNet101, Locust | 
 | - | ![transformer 🤖🧬🤗](https://github.com/miozilla/transformer) | HuggingFace | Transformer, AWS Sagemaker Studio Lab |
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | Vertex-ai, Gen-ai |
 | - | :-: | :-: | :-: |
