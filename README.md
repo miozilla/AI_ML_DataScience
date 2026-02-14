@@ -18,6 +18,7 @@ AI_ML_DataScience
 | - | ![aiswitznorth ☕](https://github.com/miozilla/aiswitznorth) | Azure AI Search | Index |
 | - | ![aividexer 📇](https://github.com/miozilla/aividexer) | AI Video Indexer | Ai Video Indexer |
 | - | ![alloydbai ⚙️🧰🏃‍♀️](https://github.com/miozilla/alloydbai) | Foundational AI Agent Secure Database Access | AlloyDB, MCP Toolbox, API, ADK | 
+| - | ![audtfio 🎵🔊](https://github.com/miozilla/audtfio) | Audio Classification | Tensorflow, numpy, matplotlib, pandas, tensorflow_io | 
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ML, Automated ML |
 | - | ![churnxgb 📉🚀😀](https://github.com/miozilla/churnxgb) | Customer Churn Predictions | BQML, XGBoost Classifier |
