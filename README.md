@@ -34,6 +34,7 @@ AI_ML_DataScience
 | - | ![dcpvaml 🚗🔩](https://github.com/miozilla/dcpvaml) | Automotive & Insurance | Vertex AutoML Vision, Damaged Car Parts |
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
+| - | ![e2e-audio 📻🔊🦻](https://github.com/miozilla/e2e-audio) | End to End Baseline Audio Summarization | Agent Assist, DLP API, Baseline Summarization model | 
 | - | ![earlyrl 🔢👷‍♀️🏁](https://github.com/miozilla/earlyrl) | Reinforcement Learning | Tensorflow, Agent, Action, Environment, State, Reward | 
 | - | ![entitysa_nlp 🗣️😕😏](https://github.com/miozilla/entitysa_nlp) | Natural Language API | Entity & Sentiment Analysis, NLP |
 | - | ![fairsafepriv ⚖️⛵😎](https://github.com/miozilla/fairsafepriv) | Fairness, Privacy & Safety | Bias, MinDiff, Tensorflow, Keras, Gemini-api | 
