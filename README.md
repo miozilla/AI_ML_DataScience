@@ -38,6 +38,7 @@ AI_ML_DataScience
 | - | ![earlyrl 🔢👷‍♀️🏁](https://github.com/miozilla/earlyrl) | Reinforcement Learning | Tensorflow, Agent, Action, Environment, State, Reward | 
 | - | ![entitysa_nlp 🗣️😕😏](https://github.com/miozilla/entitysa_nlp) | Natural Language API | Entity & Sentiment Analysis, NLP |
 | - | ![fairsafepriv ⚖️⛵😎](https://github.com/miozilla/fairsafepriv) | Fairness, Privacy & Safety | Bias, MinDiff, Tensorflow, Keras, Gemini-api | 
+| - | ![faiss ](https://github.com/miozilla/faiss) | Facebook AI Similarity Search | Meta | Numpy | Index | Search | k-Nearest Neigbours | 
 | - | ![featurestore 📥🐼🧰](https://github.com/miozilla/featurestore) | Feature Store | Streaming Ingestion SDK, MLOps tools, Pandas | 
 | - | ![febqml :basecamp:](https://github.com/miozilla/febqml) | Feature Engineering | BigQuery Machine Learning |
 | - | ![fescarefine ⛷️🗻🦮](https://github.com/miozilla/fescarefine) | Refine & Test ML Models | Features Scaling, Normalization, Datasets |
