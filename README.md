@@ -2,6 +2,7 @@
 AI_ML_DataScience
 
 
+
 ## AI, ML & Data Science Role Repositories
 
 
@@ -52,8 +53,9 @@ AI_ML_DataScience
 | - | ![imagen 🖼️🤖](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model, Imagen |
 | - | ![kerastcvai 📚🧮💰](https://github.com/miozilla/kerastcvai) | Keras Text Classification | DNN, RNN, CNN |
 | - | ![kmeansc 🌼🌷🌻](https://github.com/miozilla/kmeansc) | K-Means Clustering | scikit-learn framework, clustering model |
-| - | ![logistregbqml 🦖🛍️](https://github.com/miozilla/logistregbqml) | Predict Shop Purchases | Logistic Regression Model, BQML |
 | - | ![loanriskaml 💸🦹](https://github.com/miozilla/loanriskaml) | Predict Loan Risk | AutoML, Tabular Classification Model |
+| - | ![logistregbqml 🦖🛍️](https://github.com/miozilla/logistregbqml) | Predict Shop Purchases | Logistic Regression Model, BQML |
+| - | ![lookerstudio 🗄️🎙️📉](https://github.com/miozilla/lookerstudio) | Product Inventory Watchlist | Custom Ecommerce Reports, Looker Studio, Data Studio, BigQuery | 
 | - | ![mcp_adk 🤖🧩🧠](https://github.com/miozilla/mcp_adk) | LLMs & tools Integration | Model Context Protocol (MCP), Agent Development Kit (ADK) | 
 | - | ![metaai 🛟](https://github.com/miozilla/metaai) | Meta AI App | Formerly Meta View, Llama4 |
 | - | ![miobius 🎱](https://github.com/miozilla/miobius) | Financial Institutions   | Artificial Intelligence Content Management               |
@@ -93,4 +95,6 @@ AI_ML_DataScience
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
+
+
 
