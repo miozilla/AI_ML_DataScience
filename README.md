@@ -91,10 +91,10 @@ AI_ML_DataScience
 | - | ![tfservingke 🛌🧠🏋️](https://github.com/miozilla/tfservingke) | Autoscaling TensorFlow Model Deployments | TF Serving, Kubernetes, ResNet101, Locust | 
 | - | ![tpu1 🔢🧠🖼️](https://github.com/miozilla/tpu1) | Tensor Processing Unit Demo | TPU,  PyTorch, XLA, AI Hypercomputer, Google |
 | - | ![transformer 🤖🧬🤗](https://github.com/miozilla/transformer) | HuggingFace | Transformer, AWS Sagemaker Studio Lab |
+| - | ![treebasedmodel 🌲✈️💃](https://github.com/miozilla/treebasedmodel) | Invistico Airline | Tree-based modeling, Machine Learning, Predictive, Decision Making, GridSearchCV, sklearn | 
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | Vertex-ai, Gen-ai |
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
-
 
 
