@@ -93,7 +93,7 @@ AI_ML_DataScience
 | - | ![transformer 🤖🧬🤗](https://github.com/miozilla/transformer) | HuggingFace | Transformer, AWS Sagemaker Studio Lab |
 | - | ![treebasedmodel 🌲✈️💃](https://github.com/miozilla/treebasedmodel) | Invistico Airline | Tree-based modeling, Machine Learning, Predictive, Decision Making, GridSearchCV, sklearn | 
 | - | ![vertexgenai ✒️](https://github.com/miozilla/vertexgenai) | Generative Ai Vertex Ai | Vertex-ai, Gen-ai |
-| - | ![xai 🩻🧠🖼️](https://github.com/miozilla/xai) | Explainable AI | Image Classification Model, Agent Platform, Tensorflow |
+| - | ![xai 🩻🧠🖼️](https://github.com/miozilla/xai) | Explainable AI | Image Classification Model, Agent Platform, Tensorflow, Keras |
 | - | :-: | :-: | :-: |
 | - | ![aitalkingtoo 🦚](https://github.com/miozilla/aitalkingtoo) | Travel / Tourism | Ai, translate, speech [In Progress...] |
 | - | :-: | :-: | :-: |
