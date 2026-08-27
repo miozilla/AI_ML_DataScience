@@ -53,6 +53,7 @@ AI_ML_DataScience
 | - | ![imagen 🖼️🤖](https://github.com/miozilla/imagen) | AI Image Model | Text-to-image diffusion model, Imagen |
 | - | ![kerastcvai 📚🧮💰](https://github.com/miozilla/kerastcvai) | Keras Text Classification | DNN, RNN, CNN |
 | - | ![kmeansc 🌼🌷🌻](https://github.com/miozilla/kmeansc) | K-Means Clustering | scikit-learn framework, clustering model |
+| - | ![litellmqs 🚅🤗♾️](https://github.com/miozilla/litellmqs) | LiteLLM Quickstart Demo | LiteLLM, Hugging Face, QWEN Model, OpenAI, API, SDK |
 | - | ![loanriskaml 💸🦹](https://github.com/miozilla/loanriskaml) | Predict Loan Risk | AutoML, Tabular Classification Model |
 | - | ![logistregbqml 🦖🛍️](https://github.com/miozilla/logistregbqml) | Predict Shop Purchases | Logistic Regression Model, BQML |
 | - | ![lookerstudio 🗄️🎙️📉](https://github.com/miozilla/lookerstudio) | Product Inventory Watchlist | Custom Ecommerce Reports, Looker Studio, Data Studio, BigQuery | 
