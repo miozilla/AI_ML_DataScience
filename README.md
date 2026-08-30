@@ -68,6 +68,7 @@ AI_ML_DataScience
 | - | ![modelarmor 🛡️🧠🦾](https://github.com/miozilla/modelarmor) | AI Security | Model Armor, Sanitize Prompts & Response, Sensitive Data Protection (SDP), DLP |
 | - | ![modelgarden1 🎎🎍](https://github.com/miozilla/modelgarden1) | AI Models | Vertex AI, Model Garden, JAX OWL-ViT v2, BERT | 
 | - | ![multiagentadk 👷‍♀️🪁👷‍♂️](https://github.com/miozilla/multiagentadk) | Multi-Agent System | Google Agent Development Kit (ADK) | 
+| - | ![n8nqs 🐜8️⃣🐜](https://github.com/miozilla/n8nqs) | N8N101 | n8n, Workflow, AI Agent, OpenAI, Groq |
 | - | ![nanobanana 🐵🍌🖼️](https://github.com/miozilla/nanobanana) | Gemini Flash Image Model | Generate & Edit Images with Nano Banana, Gen AI SDK, Vertex AI Studio UI | 
 | - | ![nlpreusee 🗒️⛓️](https://github.com/miozilla/nlpreusee) | Github, Tech-Crunch, New-York Times | NLP, Text Classification, Reusable Embeddings |
 | - | ![odcvia 👁️‍🗨️👁️‍🗨️](https://github.com/miozilla/odcvia) | Object Detection | Obj-detection, CV, img-analysis, ai-vision |
