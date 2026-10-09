@@ -79,6 +79,7 @@ AI_ML_DataScience
 | - | ![pinecone 🍍](https://github.com/miozilla/pinecone) | PineCone | Embeddings, Vector, Pinecone, Database, llama, Index |
 | - | ![promptd ⌨️🧠🗣️](https://github.com/miozilla/promptd) | Prompt Design | Prompt Engineering, Ideation, QA, Classification, Extraction, Summarization | 
 | - | ![promptshield 🛡️](https://github.com/miozilla/promptshield) | Ai Security | Content-safety |
+| - | ![quickhr 🤖🙋‍♀️](https://github.com/miozilla/quickhr) | HR Agent | Amazon Quick Suite, Custom Chat Agent, Spaces, Builder, Persona |
 | - | ![randomforestclassifier 🌸🌳](https://github.com/miozilla/RandomForestClassifier) | CSV Load, Train, Infer Model Demo | RandomForestClassifier, sklearn.ensemble, train_test_split, accuracy_score, flask |
 | - | ![rfnb ®️🍫🧋](https://github.com/miozilla/rfnb) | Food & Beverage | R Programming Language, tidyverse, ggplot, tibble, kaggle |
 | - | ![sagemaker-genai 🐋🐪](https://github.com/miozilla/sagemaker-genai) | Deepseek & LLAMA | Sagemaker, genai, llm model, python sdk |
