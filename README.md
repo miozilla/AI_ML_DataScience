@@ -29,6 +29,7 @@ AI_ML_DataScience
 | - | ![conva_fb ✈️📝🗼](https://github.com/miozilla/conva_fb) | Flight Booker | Conversational Agent Flow, Dialog Flow | 
 | - | ![ct3p 🍃🐑](https://github.com/miozilla/ct3p) | AI Global Consulting Service | Amazon Comprehend, Textract, Translate, Transcribe, Polly, SageMaker AI, S3 |
 | - | ![customvision 👓 ](https://github.com/miozilla/customvision) | Computer Vision | Custom Vision |
+| - | ![cxaia 🛃📠](https://github.com/miozilla/cxaia) | Customer Experience | CX Agent Studio, Guardrails, Tool, Web Widget, Channel |
 | - | ![bedrockbarag 🛌🪨](https://github.com/miozilla/bedrockbarag) | Enterprise Knowledge Assistant | Bedrock, KB, RAG, Text to Vector, OpenSearch, nova, titan embeddings |
 | - | ![dataiku](https://github.com/miozilla/dataiku) | AI Ml Data Science | Dataiku |
 | - | ![databrickspark 🧱 ⭐](https://github.com/miozilla/databrickspark)  | Retails / Products | Databricks, Apache-spark-cluster, Azure, Hive-metastore, Pyspark |
