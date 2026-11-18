@@ -23,6 +23,7 @@ AI_ML_DataScience
 | - | ![audtfio 🎵🔊](https://github.com/miozilla/audtfio) | Audio Classification | Tensorflow, numpy, matplotlib, pandas, tensorflow_io | 
 | - | ![avalanchemior ⛷️🗻](https://github.com/miozilla/avalanchemior) | Safety & Rescue Technology | Optimize Model Performance, ROC, AUC, scikit-learn, numpy, pandas, matplotlib |
 | - | ![azmlaml 🔬](https://github.com/miozilla/azmlaml) | Urban Transportation | Azure ML, Automated ML |
+| - | ![bracketology 🧺🏀](https://github.com/miozilla/bracketology) | Google Machine Learning Bracketology | BigQuery ML, NCAA Dataset, ML Model, Model Performance |
 | - | ![churnxgb 📉🚀😀](https://github.com/miozilla/churnxgb) | Customer Churn Predictions | BQML, XGBoost Classifier |
 | - | ![classicsml ⛈️🔄📉](https://github.com/miozilla/classicsml) | Classsic Supervised ML | Cost Function, Gradient Descent |
 | - | ![conmatrix 🔢👽🏁](https://github.com/miozilla/conmatrix) | Confusion Matrix | Data Imbalance, Evaluation, Weights & Biases | 
