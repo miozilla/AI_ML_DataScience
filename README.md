@@ -35,6 +35,7 @@ AI_ML_DataScience
 | - | ![dataprep-alteryx ✳️](https://github.com/miozilla/dataprep-alteryx) | Political & Election | DataPrep, Alteryx, Trifacta, Wrangle, Recipe |
 | - | ![dcpvaml 🚗🔩](https://github.com/miozilla/dcpvaml) | Automotive & Insurance | Vertex AutoML Vision, Damaged Car Parts |
 | - | ![deepracer 🚙](https://github.com/miozilla/deepracer) | AWS DeepRacer | SageMaker, RoboMaker, Kinesis Video Stream, S3, CloudWatch |
+| - | ![docaie2e 🗒️🔬](https://github.com/miozilla/deepdocaie2eracer) | End-to-End Data Capture Pipeline | Document AI, Process Invoices, GeoCode Address, Cloud Run Functions, Pub/Sub, BigQuery, Bucket |
 | - | ![docaiproc 📰🔌📌](https://github.com/miozilla/docaiproc) | Document AI Processor | Synchronous API, Python, Form Parser Processor, jq, documentai | 
 | - | ![docuintel 📑](https://github.com/miozilla/docuintel) | Ai Document Intelligent | Ai-document-intelligence |
 | - | ![e2e-audio 📻🔊🦻](https://github.com/miozilla/e2e-audio) | End to End Baseline Audio Summarization | Agent Assist, DLP API, Baseline Summarization model | 
